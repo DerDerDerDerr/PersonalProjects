@@ -7,6 +7,7 @@
     <br><br>
 
     <p align="centre">
+    ![Alt text](relative/path/to/Pictorials/MapBackground_4.png?raw=true "Title"))
         <img src="Pictorials/MapBackground_4.png" height="400px" width="400px">
     </p>
 
